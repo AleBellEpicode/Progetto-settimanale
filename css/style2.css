@@ -1,0 +1,150 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+.headings {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+.logo {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  padding-left: 190px;
+  padding-right: 500px;
+  background-color: black;
+}
+/* HEADER */
+
+header {
+  line-height: 1.5;
+}
+button {
+  background-color: #f04c2f;
+  color: white;
+  width: 166px;
+  height: 46px;
+  margin-top: 30px;
+  font-family: "montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  border-radius: 5px;
+  border: transparent;
+}
+.title {
+  background-image: url(../images/banner.jpg);
+  background-size: 750px;
+  background-position: -7em;
+  width: 500px;
+  height: 400px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 40px;
+  height: 80px;
+  width: 250px;
+  margin-left: 125px;
+  padding-top: 50px;
+  line-height: 1;
+}
+h2 {
+  width: 300px;
+  margin-left: 100px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+/* MAIN */
+article {
+  margin-top: 60;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+section p {
+  margin-bottom: 10px;
+}
+.round_img {
+  border-radius: 200px;
+  height: 250px;
+}
+.mid_article {
+  background-color: #e22d0e;
+  height: 300px;
+  color: white;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.epicode_garantisce {
+  font-weight: 700;
+  font-size: 35px;
+  margin-top: 40px;
+}
+.ceo_epicode {
+  font-family: cursive;
+  font-weight: 400;
+}
+.corsivo {
+  font-style: italic;
+  width: 350px;
+  margin-left: 70px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.img1,
+.img2,
+.img3 {
+  height: 250px;
+  width: 430px;
+}
+.box1,
+.box2,
+.box3 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 430px;
+  margin-bottom: 30px;
+}
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+section {
+  border: solid#dee1e3;
+}
+
+/* FOOTER */
+footer {
+  color: #c8e7f0;
+  background-color: #25a2c3;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.contattaci {
+  color: white;
+  font-weight: 700;
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+.contatti {
+  margin-bottom: 20px;
+}
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+a {
+  color: #c8e7f0;
+}
+i {
+  color: white;
+}
